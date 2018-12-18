@@ -1,0 +1,16 @@
+Github: https://github.com/morandj/vue-pwa
+To add git repo to Github
+1. In Github create new repo & copy repo url
+2. In project root enter command
+  git remote add origin 'repository URL'
+  # Sets the new remote
+  git remote -v
+  # Verifies the new remote URL
+
+Firebase
+In project root enter commands
+1. firebase init
+   #select hosting
+   #select 'y' spa
+   #select 'N' overwrite index.html
+   
